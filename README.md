@@ -10,7 +10,7 @@ https://zube.io/fase-iii-2/fase-iii/w/workspace-1/kanban
 
 Tabla de contenidos
 
-1. Problemática: https://github.com/josesanchez79/Fase-III/wiki
+1. Problemática: https://github.com/josesanchez79/Fase-III/wiki/Problem%C3%A1tica
 2. Requerimientos: https://github.com/josesanchez79/Fase-III/wiki/Requerimientos
 3. Instalación: https://github.com/josesanchez79/Fase-III/wiki/Instalaci%C3%B3n
 4. Configuración: https://github.com/josesanchez79/Fase-III/wiki/Configuraci%C3%B3n
